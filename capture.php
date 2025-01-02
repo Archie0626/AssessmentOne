@@ -10,7 +10,7 @@
     // echo "Login failed. Please try again.";
 
 ?>
-<h1> HAHA!It was a prank! Happie April Fools Day! </h1>
+<title> 404 - Page Not Found </title>
 <?php
 
 ?>
