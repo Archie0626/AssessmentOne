@@ -10,7 +10,8 @@
     // echo "Login failed. Please try again.";
 
 ?>
-<title> 404 - Page Not Found </title>
+<title> 404 - Error </title>
+<h1>404 - Page Not Found</h1>
 <?php
 
 ?>
